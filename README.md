@@ -14,7 +14,9 @@ The project aims to create a platform (website and mobile app) that allows users
 The platform will provide a critical service by helping individuals quickly locate essential medications, particularly during shortages or crises. It can also help pharmacies optimize their inventory management and improve customer satisfaction.
 
 ## Optimizations
-The platform will provide a critical service by helping individuals quickly locate essential medications, particularly during shortages or crises. It can also help pharmacies optimize their inventory management and improve customer satisfaction.
+Ensuring real-time accuracy of pharmacy inventories.
+Encouraging pharmacies to participate and keep their stock information updated.
+Handling sensitive user data securely and complying with health privacy regulations.
 
 ## Lessons Learned:
 
